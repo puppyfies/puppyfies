@@ -10,7 +10,7 @@ $\color{#5175E1}{\textsf{helloooiuuu}}$ $\color{#DEDADD}{\textsf{im}}$ $\color{#
 
 <a href="https://rentry.co/spokeiscool">
   <img src="https://files.catbox.moe/uccsg8.png" width="100">
-</a> <a href="https://dreamsmp.atabook.org/">
+</a> <a href="https://spokes.atabook.org/">
   <img src="https://files.catbox.moe/mjcnbw.png" width="100">
 </a> <a href="https://github.com/whisphex">
   <img src="https://files.catbox.moe/7lwtlm.png" width="100">
