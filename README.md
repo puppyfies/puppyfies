@@ -12,9 +12,7 @@ $\color{#5175E1}{\textsf{helloooiuuu}}$ $\color{#DEDADD}{\textsf{im}}$ $\color{#
   <img src="https://files.catbox.moe/uccsg8.png" width="100">
 </a> <a href="https://spokes.atabook.org/">
   <img src="https://files.catbox.moe/mjcnbw.png" width="100">
-</a> <a href="https://github.com/whisphex">
-  <img src="https://files.catbox.moe/7lwtlm.png" width="100">
-</a>
+</a> 
 
 <img width="1280"  alt="1703" src="https://github.com/user-attachments/assets/faa3d9ca-cb89-4292-be1c-79e57aa867c5" />
 <img width="800"  alt="1702" src="https://github.com/user-attachments/assets/e6536810-81eb-4d16-ad5b-d2e0c8b5c2e7" />
