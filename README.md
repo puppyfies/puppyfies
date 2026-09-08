@@ -1,5 +1,5 @@
-<img width="800"  alt="1698" src="https://github.com/user-attachments/assets/ac0c846e-82f3-4b39-8f58-e2baf43a5651" />
-<img width="1280"  alt="1704" src="https://github.com/user-attachments/assets/89d7b845-2198-44d2-beff-88e75fe3a9fd" />
+<img width="1280"  alt="2153" src="https://github.com/user-attachments/assets/d209d94e-f05c-4185-8a4d-55e19bcc1bd7" />
+<img width="736"  alt="2151" src="https://github.com/user-attachments/assets/f329fdc3-cce6-434c-b9f6-ffb76bb75fb3" />
 <img width="1300"  alt="928" src="https://github.com/user-attachments/assets/287ced27-e529-4014-8448-b722f95dfd9b" />
 <div align="center">
 <p align="center">
@@ -14,5 +14,5 @@ $\color{#5175E1}{\textsf{helloooiuuu}}$ $\color{#DEDADD}{\textsf{im}}$ $\color{#
   <img src="https://files.catbox.moe/mjcnbw.png" width="100">
 </a> 
 
-<img width="1280"  alt="1703" src="https://github.com/user-attachments/assets/faa3d9ca-cb89-4292-be1c-79e57aa867c5" />
-<img width="800"  alt="1702" src="https://github.com/user-attachments/assets/e6536810-81eb-4d16-ad5b-d2e0c8b5c2e7" />
+<img width="736" alt="2150" src="https://github.com/user-attachments/assets/1dd40000-1b79-4ddb-b5be-c26e36839775" />
+
