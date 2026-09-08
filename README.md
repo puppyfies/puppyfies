@@ -21,7 +21,7 @@ $\color{#FAE8D5}{\textsf{im}}$ $\color{#64899E}{\textsf{not}}$ $\color{#FAE8D5}{
 
 $\color{#FAE8D5}{\textsf{thanks}}$ $\color{#64899E}{\textsf{for}}$ $\color{#FAE8D5}{\textsf{the}}$ $\color{#64899E}{\textsf{people}}$ $\color{#FAE8D5}{\textsf{who}}$ $\color{#64899E}{\textsf{has}}$ $\color{#FAE8D5}{\textsf{been}}$ $\color{#64899E}{\textsf{supporting}}$ $\color{#FAE8D5}{\textsf{my}}$ $\color{#64899E}{\textsf{yumes/t}}$ $\color{#FAE8D5}{\textsf{I}}$ $\color{#64899E}{\textsf{love}}$ $\color{#FAE8D5}{\textsf{you}}$ $\color{#64899E}{\textsf{guys.}}$
 
-<a href="https://rentry.co/spokeiscool">
+<a href="https://rentry.co/pwppyfies">
   <img src="https://files.catbox.moe/uccsg8.png" width="100">
 </a> <a href="https://spokes.atabook.org/">
   <img src="https://files.catbox.moe/mjcnbw.png" width="100">
